@@ -1,0 +1,50 @@
+.logo {
+    float: right;
+    padding: 16px;
+    width: 80%;
+    }
+    body{
+
+        background-image: url();
+        width: 100%;
+
+
+
+    }
+
+img{
+
+    width: 1000%;
+}
+
+#image
+{
+    width: 100%;
+}
+
+
+.myButton {width: 250px;
+	box-shadow: rgb(207 134 108) 0px 1px 0px 0px inset;
+    background: linear-gradient(rgb(240 117 17) 5%, rgb(249 161 90) 100%) rgb(165 83 16);
+	background-color:#ff7300;
+	border-radius:3px;
+	border:1px solid #942911;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:27px;
+	font-weight:bold;
+    padding:11px 45px;
+    position: relative;
+	text-decoration:none;top:87px;
+	text-shadow:0px 1px 0px #854629;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ff4000 5%, #ff7300 100%);
+	background-color:#ff4000;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
